@@ -1,0 +1,442 @@
+{
+  "harmful": [
+    "coal tar",
+    "tea",
+    "synthetic fragrance",
+    "mea",
+    "propylene glycol",
+    "microbeads",
+    "mercury",
+    "polyethylene",
+    "formaldehyde",
+    "lead",
+    "phthalate",
+    "petrolatum",
+    "paraben",
+    "sodium laureth sulfate",
+    "triclosan",
+    "sodium lauryl sulfate",
+    "bht",
+    "benzene",
+    "hydroquinone",
+    "toluene",
+    "oxybenzone",
+    "dea",
+    "bha"
+  ],
+  "allergens": [
+    "kathon cg",
+    "fragrance",
+    "eugenol",
+    "cinnamal",
+    "formaldehyde releaser",
+    "limonene",
+    "linalool",
+    "quaternium-15",
+    "imidazolidinyl urea",
+    "neomycin",
+    "dmdm hydantoin",
+    "methylisothiazolinone",
+    "parfum",
+    "diazolidinyl urea",
+    "lanolin"
+  ],
+  "safe": [
+    "peptide",
+    "titanium dioxide",
+    "green tea extract",
+    "squalane",
+    "retinol",
+    "panthenol",
+    "jojoba oil",
+    "shea butter",
+    "aqua",
+    "ceramide",
+    "niacinamide",
+    "glycerin",
+    "vitamin c",
+    "zinc oxide",
+    "hyaluronic acid",
+    "aloe vera",
+    "water",
+    "vitamin e"
+  ],
+  "last_updated": "2025-10-14T14:47:20.872032",
+  "sources_status": {
+    "EWG": {
+      "status": "success",
+      "info": "Found allergen/irritant",
+      "timestamp": "2025-10-13T22:33:50.162131"
+    },
+    "CosDNA": {
+      "status": "success",
+      "info": "Found info",
+      "timestamp": "2025-10-13T22:33:41.863012"
+    }
+  },
+  "online_lookup_cache": {
+    "--ethyl ascorbic acid": {
+      "category": "allergen",
+      "reason": "EWG: Allergen or irritant",
+      "sources": [
+        "EWG Skin Deep"
+      ],
+      "timestamp": "2025-10-13T21:34:59.556301"
+    },
+    "betaine": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:35:06.665271"
+    },
+    "butylene glycol": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T21:35:13.552106"
+    },
+    "isodecyl neopentanoate": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:35:19.816284"
+    },
+    "ethoxydiglycol": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:35:29.501345"
+    },
+    "sod ium citrate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T21:35:36.971443"
+    },
+    "diheptyl succinate": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:35:44.457413"
+    },
+    "citric acid": {
+      "category": "safe",
+      "reason": "Inferred safe (common beneficial type)",
+      "sources": [],
+      "timestamp": "2025-10-13T21:35:49.874928"
+    },
+    "hydroxypropyl cyclodextrin": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:35:56.139082"
+    },
+    "cyclodextrin": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:36:03.491820"
+    },
+    "polydextrose": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:36:10.350982"
+    },
+    "resveratrol": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:36:20.183600"
+    },
+    "citrus reticulata peel extract": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:36:28.514757"
+    },
+    "vitis vinifera extract": {
+      "category": "safe",
+      "reason": "Inferred safe (common beneficial type)",
+      "sources": [],
+      "timestamp": "2025-10-13T21:36:34.193336"
+    },
+    "rosa damascena extract": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:36:40.054887"
+    },
+    "phenoxyethanol": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:36:46.508521"
+    },
+    "trilaur eth- phosphate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T21:36:53.901130"
+    },
+    "xanthan gum": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T21:37:00.534991"
+    },
+    "sodium polyacryloyldimethyl taurate": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:37:08.013749"
+    },
+    "sulphates": {
+      "category": "allergen",
+      "reason": "EWG: Allergen or irritant",
+      "sources": [
+        "EWG Skin Deep",
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T21:37:15.073846"
+    },
+    "3-0-ethyl ascorbic acid": {
+      "category": "allergen",
+      "reason": "EWG: Allergen or irritant",
+      "sources": [
+        "EWG Skin Deep"
+      ],
+      "timestamp": "2025-10-13T21:44:24.021808"
+    },
+    "trilaur eth-4 phosphate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T21:44:31.089985"
+    },
+    "sodium citrate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:16:30.589804"
+    },
+    "resveratrstedium": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:16:37.338726"
+    },
+    "fonttierc reeligum": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:16:44.176244"
+    },
+    "peel ex hinfernis": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:16:50.664600"
+    },
+    "gununage": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:16:57.001878"
+    },
+    "geed": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:17:03.567094"
+    },
+    "exxpepit": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:17:20.870469"
+    },
+    "resiveertic uptifers aurce": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:17:27.819690"
+    },
+    "iddm congetma": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:17:35.715889"
+    },
+    "coffurade": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:17:43.598526"
+    },
+    "gotra nospocant jations": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:17:50.562787"
+    },
+    "approth": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:17:56.297102"
+    },
+    "eipthettic": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:18:03.119940"
+    },
+    "methybarbein": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:18:09.517161"
+    },
+    "alcohols sunthetic derived fragrants ra silicones tre miul isllicoilies": {
+      "category": "safe",
+      "reason": "Inferred safe (common beneficial type)",
+      "sources": [],
+      "timestamp": "2025-10-13T22:18:16.274910"
+    },
+    "dryinglats": {
+      "category": "harmful",
+      "reason": "EWG: High hazard rating",
+      "sources": [
+        "EWG Skin Deep"
+      ],
+      "timestamp": "2025-10-13T22:18:21.836031"
+    },
+    "colorants sense mrp incl": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:18:28.555391"
+    },
+    "aquin": {
+      "category": "safe",
+      "reason": "CosDNA: Generally safe",
+      "sources": [
+        "CosDNA"
+      ],
+      "timestamp": "2025-10-13T22:33:42.163696"
+    },
+    "niacumaide": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:33:47.691937"
+    },
+    "zinc complex": {
+      "category": "allergen",
+      "reason": "EWG: Allergen or irritant",
+      "sources": [
+        "EWG Skin Deep"
+      ],
+      "timestamp": "2025-10-13T22:33:53.963274"
+    },
+    "peptde tiaamium dioxive": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:33:59.205301"
+    },
+    "xitamilve": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:34:04.575986"
+    },
+    "limineno": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:34:09.295478"
+    },
+    "oxyboenum": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:34:13.943167"
+    },
+    "parabas": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-13T22:34:19.718825"
+    },
+    "sulfates": {
+      "category": "harmful",
+      "reason": "Keyword match: sulfate",
+      "sources": [
+        "heuristic"
+      ],
+      "timestamp": "2025-10-13T22:34:19.829890"
+    },
+    "3-0-ethyl ascorb ic acid": {
+      "category": "safe",
+      "reason": "Inferred safe (common beneficial type)",
+      "sources": [],
+      "timestamp": "2025-10-14T14:38:58.685660"
+    },
+    "lsodecyl neopentanoate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-14T14:39:05.963563"
+    },
+    "dihepty succinate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-14T14:39:12.727266"
+    },
+    "trilaureth-4 phosphate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-14T14:39:18.560259"
+    },
+    "sodium polyacrytoyldimethy taurate": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-14T14:39:25.542161"
+    },
+    "disodium edta": {
+      "category": "unknown",
+      "reason": "No clear evidence found",
+      "sources": [],
+      "timestamp": "2025-10-14T14:39:31.266358"
+    }
+  }
+}

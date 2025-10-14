@@ -1,0 +1,10 @@
+streamlit==1.28.0
+opencv-python==4.8.1.78
+pillow==10.0.1
+pytesseract==0.3.10
+numpy==1.24.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+schedule==1.2.0
+pandas==2.0.3
