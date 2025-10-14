@@ -11,9 +11,12 @@ pytesseract==0.3.10
 
 # numeric libs - allow pip to choose a wheel
 numpy>=1.24.3,<2.0
+streamlit
+opencv-python-headless==4.10.0.84
 
 # parsing: avoid lxml unless necessary
 beautifulsoup4==4.12.2
 html5lib==1.1
 # lxml==4.9.3   # COMMENT OUT unless you truly need it
+
 
