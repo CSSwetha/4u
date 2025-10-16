@@ -4,3 +4,8 @@ pillow==10.0.0
 numpy==1.26.1
 pytesseract==0.3.11
 
+streamlit==1.28.0
+pillow==10.0.0
+numpy==1.26.1
+pytesseract==0.3.13
+requests
