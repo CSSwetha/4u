@@ -1,21 +1,6 @@
-# core
-setuptools>=65.0.0
-streamlit==1.28.0
-
-# image processing
-opencv-python==4.8.1.78
-pillow==9.5.0
-
-# OCR
-# numeric libs - allow pip to choose a wheel
-numpy>=1.24.3,<2.0
-streamlit
-opencv-python-headless==4.10.0.84
-
-# parsing: avoid lxml unless necessary
-beautifulsoup4==4.12.2
-html5lib==1.1
-# lxml==4.9.3   # COMMENT OUT unless you truly need it
-
-
+streamlit==1.24.1
+opencv-python-headless==4.7.0.72
+pillow==10.0.0
+numpy==1.26.1
+pytesseract==0.3.11
 
