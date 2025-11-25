@@ -529,7 +529,7 @@ def main():
                                 web_note = fetch_ingredient_summary_from_web(ing, session=session)
                             except Exception as e:
                                 logger.debug("Web lookup failed for %s: %s", ing, e)
-                        rows.append({'ingredient': ing, 'category': cat, 'reason': reason, 'confidence': f"{int(conf*100)}%", 'web_note': web_note or ""})
+                        rows.append({'ingredient': ing, 'category': cat, 'web_note': web_note or ""})
                         prog.progress(int(i/len(parsed)*100))
                         time.sleep(0.02)
                     prog.empty()
@@ -547,7 +547,7 @@ def main():
                     st.markdown("---")
                     st.subheader("Detailed Report")
                     # show table without web_note by default
-                    st.dataframe(df[['ingredient', 'category', 'reason', 'confidence']], use_container_width=True)
+                    st.dataframe(df[['ingredient', 'category']], use_container_width=True)
 
                     if use_web:
                         with st.expander("🔎 Web notes per ingredient (best-effort)"):
@@ -567,5 +567,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
