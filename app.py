@@ -252,7 +252,7 @@ class EnhancedIngredientDatabase:
             return 'allergen', 'Contains allergen keyword', 0.65
 
         # default
-        return 'safe', 'Assumed safe (low confidence)', 0.45
+        return 'safe', 'Safe', 0.45
 
 # -------------------------
 # Web helpers: session + search + scrape
@@ -567,3 +567,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
