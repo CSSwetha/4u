@@ -233,10 +233,6 @@ class EnhancedIngredientDatabase:
         harmful_keys = ['paraben', 'phthalate', 'sulfate', 'benzene', 'toluene']
         allergen_keys = ['fragrance', 'parfum', 'limonene', 'linalool']
 
-                # Keyword-based match
-        harmful_keys = ['paraben', 'phthalate', 'sulfate', 'benzene', 'toluene']
-        allergen_keys = ['fragrance', 'parfum', 'limonene', 'linalool']
-
         if any(k in ing for k in harmful_keys):
             return ('harmful', 'Keyword harmful match', 0.85)
 
@@ -245,3 +241,4 @@ class EnhancedIngredientDatabase:
 
         # Needs review fallback
         return ('review', 'Insufficient data — requires manual review', best_score)
+
