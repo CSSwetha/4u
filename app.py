@@ -470,7 +470,7 @@ def main():
                                     rows = []
                                     for ing in parsed[:40]:
                                         cat, reason, conf = db.classify_ingredient(ing)
-                                        rows.append({'ingredient': ing, 'category': cat, 'reason': reason, 'confidence': f"{int(conf*100)}%"})
+                                        rows.append({'ingredient': ing, 'category': cat})
                                     st.table(pd.DataFrame(rows))
                                 else:
                                     st.info("Could not parse individual ingredients from the extracted section. Try the raw text above.")
@@ -567,4 +567,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
